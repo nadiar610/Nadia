@@ -513,6 +513,12 @@
         position: relative;
         position: relative; 
     }
+    
+    /* navbar */
+
+    .navbar .nav a {
+        margin: 0 5px;
+    }
 
     /* Menu */
 
